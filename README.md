@@ -1,6 +1,6 @@
 <h1 align="center"> API-Locação-de-imoveis </h1>
 
-API que utiliza as quatro operações do CRUD, utilizando o MySql para persistir os dados.
+<p>API que utiliza as quatro operações do CRUD, utilizando o MySql para persistir os dados.</p>
 Feita com dot Net core na versão 6.0.
 Camadas:
 Controller - recebe as requisições HTTP
