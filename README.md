@@ -8,5 +8,5 @@ Camadas:<br>
  <li>Models - Contém o modelo de dados da aplicação
  <li>Data- Camada de persistência com banco de dados
 </ul>
-Usei a abordagem code First
+Usei a abordagem code First<br>
 Banco de dados está na pasta database.sql
