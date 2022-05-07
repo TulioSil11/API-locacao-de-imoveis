@@ -3,8 +3,10 @@
 <p>API que utiliza as quatro operações do CRUD, utilizando o MySql para persistir os dados.</p>
 Feita com .Net core na versão 6.0.<br>
 Camadas:<br>
-Controller - recebe as requisições HTTP<br>
-Models - Contém o modelo de dados da aplicação<br>
-Data- Camada de persistência com banco de dados<br>
-Usei a abordagem code First<br>
+<ul>
+ <li>Controller - recebe as requisições HTTP
+ <li>Models - Contém o modelo de dados da aplicação
+ <li>Data- Camada de persistência com banco de dados
+</ul>
+Usei a abordagem code First
 Banco de dados está na pasta database.sql
